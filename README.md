@@ -2,7 +2,7 @@
 
 *Interactive explorations of trust, cooperation, and AI alignment through game theory*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/game-theory-trust-suite/blob/main/notebooks/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/)
 
 ## Overview
 
@@ -14,10 +14,10 @@ Each notebook runs with zero setup - just click and play!
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| 1. Trust Dynamics Playground | Explore how trust emerges and evolves through game theory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/game-theory-trust-suite/blob/main/notebooks/1_Trust_Dynamics_Playground.ipynb) |
-| 2. Human-AI Trust Laboratory | Build trust with AI agents that learn from your behavior | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/game-theory-trust-suite/blob/main/notebooks/2_Human_AI_Trust_Laboratory.ipynb) |
-| 3. Adaptive Strategy Game | Explore multi-dimensional strategy alignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/game-theory-trust-suite/blob/main/notebooks/3_Adaptive_Strategy_Game.ipynb) |
-| 4. Trust Network Evolution | Watch trust propagate through multi-agent networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/game-theory-trust-suite/blob/main/notebooks/4_Trust_Network_Evolution.ipynb) |
+| 1. Trust Dynamics Playground | Explore how trust emerges and evolves through game theory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/1_Trust_Dynamics_Playground.ipynb) |
+| 2. Human-AI Trust Laboratory | Build trust with AI agents that learn from your behavior | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/2_Human_AI_Trust_Laboratory.ipynb) |
+| 3. Adaptive Strategy Game | Explore multi-dimensional strategy alignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/3_Adaptive_Strategy_Game.ipynb) |
+| 4. Trust Network Evolution | Watch trust propagate through multi-agent networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/4_Trust_Network_Evolution.ipynb) |
 
 ## 🎨 Design Philosophy
 
