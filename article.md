@@ -314,9 +314,9 @@ Because the best safety research happens in the open, where every assumption can
 
 **Access the Game Theory Trust Suite:** [Game Theory Trust Suite Github]
 
-**For complementary perspectives on consciousness and debugging, see:** ["Consciousness: The Universe Debugging Itself"]
+**For complementary perspectives on consciousness and debugging, see:** [https://github.com/HillaryDanan/hexagonal-consciousness-suite/blob/main/article.md]
 
-**For testing various shape patterns of representation at different levels of analysis of consciousness, see:** [Hexagonal Consciousness Suite Github]
+**For testing various shape patterns of representation at different levels of analysis of consciousness, see:** [https://github.com/HillaryDanan/hexagonal-consciousness-suite/tree/main]
 
 Trust, verify, and build.
 
