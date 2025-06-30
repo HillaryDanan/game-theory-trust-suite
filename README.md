@@ -49,6 +49,20 @@ The implementations are based on established research:
 - Okamura, K., & Yamada, S. (2020). Adaptive trust calibration for human-AI collaboration
 - Ji et al. (2023). AI Alignment: A Comprehensive Survey
 
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@software{danan2025gametheory,
+  author = {Danan, Hillary},
+  title = {Game Theory Test Suite},
+  year = {2025},
+  month = {June},
+  url = {https://github.com/HillaryDanan/game-theory-test-suite}
+}
+```
+
 ---
 
 *Remember: Trust is earned in drops and lost in buckets. These simulations let you explore that dynamic safely.* 🎮✨
