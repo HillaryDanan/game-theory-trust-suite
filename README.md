@@ -1,5 +1,8 @@
 # Game Theory Trust Suite 🎮🧠
 
+> Part of the [Cognitive Architectures for AI](https://github.com/HillaryDanan/cognitive-architectures-ai) research program
+
+
 *Interactive explorations of trust, cooperation, and AI alignment through game theory*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HillaryDanan/game-theory-trust-suite/blob/main/notebooks/)
